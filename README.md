@@ -35,3 +35,5 @@ git init
 5. Test it.
 6. Write the README file, describing how to execute the application.
 7. Done :)
+
+test
